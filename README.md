@@ -1,5 +1,5 @@
 # Cliffhanger
-A game created for the theme "Maximum power" during the Game Dev Club's 12-hours game jam at UC Davis. The game is made for PC. Keep throwing rocks at the stickman to make him fall off the cliff!
+A game created for the theme "Maximum power" during the Game Dev Club's 12-hours game jam at UC Davis. The game is made for PC.
 Cliffhanger is all about making the poor stickman die! >:) Keep hitting him with rocks to make him fall into the water! 
 Don't let him climb up the cliff or you LOOOOSE!
 
