@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WaterSplash.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WaterSplash.cs" Line="13" Column="31" />
+      <File FileName="Assets/Scripts/PersonClimbsUp.cs" Line="6" Column="25" />
+      <File FileName="Assets/Scripts/Projectile.cs" Line="29" Column="6" />
+      <File FileName="Assets/Scripts/Powerbar.cs" Line="12" Column="2" />
+      <File FileName="Assets/Scripts/GettingHit.cs" Line="11" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
